@@ -1,10 +1,4 @@
 # Home-Automation
-     CS 321
-   HOME AUTOMATION 	
-     USING	 
- RASPBERRY PI
-						
-By Group 18					
 
 Objective:
 Creating a Smart Home Automation System using Raspberry Pi.
