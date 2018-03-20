@@ -5,7 +5,7 @@ Creating a Smart Home Automation System using Raspberry Pi.
 
 Instruments  Used :
 
-●	Raspberry Pi
+●	Raspberry Pi 
 ●	Arduino(2),
 ●	 RF module(one receiver & one tranmitter)
 ●	 Ping Sensor(2)
@@ -16,4 +16,7 @@ Instruments  Used :
 ●	LED’s.
 
 
-Please have a look into the word file for more information 
+Please have a look into the word file for more information. 
+
+
+Demo representation link: https://youtu.be/bmMXYJsHiFw 
